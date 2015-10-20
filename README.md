@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Getting and Cleaning Data - Course Project
 
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
@@ -9,10 +8,4 @@ CodeBook.md describes the variables, the data, and any transformations or work t
 
 run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-The output of the 5th step is called averages_data.txt, and uploaded in the course project's form.
-=======
-# GettingandCleaningData
-Getting and Cleaning Data
-
-
->>>>>>> 83b066fce01e7a4cf1ec08f0f5119419d8e213e6
+The output of the 5th step is called aggdata.txt, and uploaded in the course project's form.
